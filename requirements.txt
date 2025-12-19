@@ -1,0 +1,9 @@
+torch
+transformers
+accelerate
+bitsandbytes
+peft
+trl
+datasets
+sentencepiece
+huggingface_hub
